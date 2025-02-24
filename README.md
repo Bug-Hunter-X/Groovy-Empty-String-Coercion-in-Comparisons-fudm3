@@ -1,0 +1,1 @@
+This repository demonstrates a subtle Groovy bug related to the implicit conversion of empty strings to null in comparison operations.  The `bug.groovy` file shows the unexpected behavior. The solution, provided in `bugSolution.groovy`, offers a more robust approach to handling string comparisons, preventing unexpected results caused by empty strings being treated as null.
